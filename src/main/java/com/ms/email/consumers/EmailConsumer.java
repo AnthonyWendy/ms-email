@@ -1,4 +1,3 @@
-
 package com.ms.email.consumers;
 
 import com.ms.email.dtos.EmailDto;
